@@ -291,22 +291,22 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-white">Legal</h3>
                 <ul className="space-y-2">
                   <li>
-                    <Link href="https://wvl-tos.vercel.app" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
+                    <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
                       Terms
                     </Link>
                   </li>
                   <li>
-                    <Link href="https://wvl-tos.vercel.app" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
+                    <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
                       Privacy
                     </Link>
                   </li>
                   <li>
-                    <Link href="https://wvl-tos.vercel.app" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
+                    <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
                       Cookies
                     </Link>
                   </li>
                   <li>
-                    <Link href="https://wvl-tos.vercel.app" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
+                    <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-gray-400 hover:text-[#ccbe43] transition-colors">
                       Disclaimer
                     </Link>
                   </li>
