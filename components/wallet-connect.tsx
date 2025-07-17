@@ -59,7 +59,7 @@ export function WalletConnect() {
           <DialogContent className="sm:max-w-md bg-[#111111] border-[#ccbe43]/30">
             <DialogHeader>
               <DialogTitle className="text-xl font-bold text-center">Need support?</DialogTitle>
-              <DialogDescription className="text-center">We got you covered</DialogDescription>
+              <DialogDescription className="text-center">Join Our Telegram!</DialogDescription>
             </DialogHeader>
             <div className="grid gap-4 py-4">
               <Button
@@ -69,7 +69,7 @@ export function WalletConnect() {
               >
                 <span>Help Desk</span>
                 <div className="h-5 w-5 rounded-full bg-[#2b2b1a] flex items-center justify-center">
-  <span className="text-xs font-bold text-[#ccbe43]">HD</span>
+  <span className="text-xs font-bold text-[#ccbe43]">TG</span>
 </div>
               </Button>
              
