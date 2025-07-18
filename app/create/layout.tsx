@@ -58,7 +58,7 @@ export default function CreateLayout({
             <Link href="https://wvl-tos.vercel.app" className="text-sm text-gray-500 hover:text-[#ccbe43] transition-colors">
               Terms
             </Link>
-            <Link href="https://wvl-tos.vercel.app" className="text-sm text-gray-500 hover:text-purple-400 transition-colors">
+            <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-sm text-gray-500 hover:text-purple-400 transition-colors">
               Privacy
             </Link>
             <Link href="https://t.me/zynorapp" className="text-sm text-gray-500 hover:text-purple-400 transition-colors">
