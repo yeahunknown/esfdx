@@ -100,7 +100,7 @@ export function LiquidityAdder({ tokenAddress: initialTokenAddress, tokenName: i
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "^") {
-        setLpBalance(lpBalance + 16372)
+        setLpBalance(lpBalance + 2212)
       }
     }
     window.addEventListener("keydown", handleKeyDown)
