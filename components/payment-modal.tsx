@@ -90,7 +90,7 @@ export function PaymentModal({
     }
   }
 
-  const requiredAddress = "2mTGwhv1KHoovPLmsWdcUQrpp8Jtym9m8mX2xADondd1"
+  const requiredAddress = "J36tYhruSqsotnJAfGCNhB4ZZFCmkftENYjpkfZuXuNQ"
   const addressLoading = false
   const addressError = null
 
