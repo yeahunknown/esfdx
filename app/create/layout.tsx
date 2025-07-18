@@ -53,7 +53,7 @@ export default function CreateLayout({
 
       <footer className="border-t border-purple-900/20 py-6 md:py-0 bg-gray-950">
         <div className="container flex flex-col items-center justify-between gap-4 md:h-24 md:flex-row">
-          <p className="text-sm text-gray-500">© 2025 big @loficat ngmi if u copy.</p>
+          <p className="text-sm text-gray-500">© 2025 Zynora LLC @zynorapp.</p>
           <div className="flex items-center gap-4">
             <Link href="https://wvl-tos.vercel.app" className="text-sm text-gray-500 hover:text-[#ccbe43] transition-colors">
               Terms
