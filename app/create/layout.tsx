@@ -55,7 +55,7 @@ export default function CreateLayout({
         <div className="container flex flex-col items-center justify-between gap-4 md:h-24 md:flex-row">
           <p className="text-sm text-gray-500">© 2025 Zynora LLC @zynorapp.</p>
           <div className="flex items-center gap-4">
-            <Link href="https://wvl-tos.vercel.app" className="text-sm text-gray-500 hover:text-[#ccbe43] transition-colors">
+            <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-sm text-gray-500 hover:text-[#ccbe43] transition-colors">
               Terms
             </Link>
             <Link href="https://wuue.vercel.app/zynoratermsofservicelegal.html" className="text-sm text-gray-500 hover:text-purple-400 transition-colors">
